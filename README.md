@@ -1,2 +1,2 @@
 # JavaScript
-JavaScript Learning resources
+JavaScript Learning Resources
