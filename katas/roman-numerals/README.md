@@ -15,3 +15,5 @@ Write a method String convert(int) that takes a number and converts it to the ac
 1000 ➔ M
 
 https://kata-log.rocks/roman-numerals-kata
+
+Solution from https://www.rosettacode.org/wiki/Roman_numerals/Encode#ES6
